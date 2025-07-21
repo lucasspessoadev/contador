@@ -89,4 +89,4 @@ Para compilar e executar este projeto, siga os passos abaixo:
 
 ## 📚 Origem do Desafio
 
-Este projeto foi desenvolvido como parte do **Bootcamp Santander Code Girls** da **DIO.me**.
+Este projeto foi desenvolvido como parte do **Bootcamp Santander** da **DIO.me**.

@@ -85,7 +85,7 @@ Para compilar e executar este projeto, siga os passos abaixo:
 
 ## ✒️ Autor
 
-* [Seu Nome/Seu Usuário do GitHub - Opcional]
+* lucasspessoadev
 
 ## 📚 Origem do Desafio
 
